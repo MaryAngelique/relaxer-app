@@ -20,7 +20,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: Relaxer App GitHub Solution
+- Solution URL: [Relaxer App GitHub Solution](https://github.com/MaryAngelique/relaxer-app)
 - Live Site URL: [Relaxer App Website](https://relaxer-app-zero.vercel.app/)
 
 ## My process
