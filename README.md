@@ -21,7 +21,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: Relaxer App GitHub Solution
-- Live Site URL: Relaxer App Website
+- Live Site URL: [Relaxer App Website](https://relaxer-app-zero.vercel.app/)
 
 ## My process
 
